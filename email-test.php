@@ -3,6 +3,10 @@
 //Santiago is back!
 // AND BEARED !!!!!!!
 
+function miCosa()
+{
+    echo "Hello";
+}
 
 
 function validateAddress($email)
