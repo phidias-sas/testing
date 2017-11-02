@@ -15,6 +15,7 @@ function micosa()
 
 function otracosa()
 {
+    // bla bla bla hotfix
 	return "este feature is over";
 }
 
