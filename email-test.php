@@ -7,6 +7,10 @@ function ahorasi()
 {
     return "Debo estar en Feature1";
 }
+function miCosa()
+{
+    echo "Hello";
+}
 
 function micosa()
 {
