@@ -13,6 +13,12 @@ function micosa()
     return "Debo estar en Feature1 - Sobreescribiendo micosa()";
 }
 
+function otracosa()
+{
+	return "este feature is over";
+}
+
+
 function validateAddress($email)
 {
     // http://php.net/manual/en/function.filter-var.php
