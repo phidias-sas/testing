@@ -3,7 +3,15 @@
 //Santiago is back!
 // AND BEARED !!!!!!!
 
+function ahorasi()
+{
+    return "Debo estar en Feature1";
+}
 
+function micosa()
+{
+    return "Debo estar en Feature1 - Sobreescribiendo micosa()";
+}
 
 function validateAddress($email)
 {
